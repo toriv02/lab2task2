@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9971f679-2e0c-4215-a0fc-b752a6c62ca4": {
+      "ProjectGuid": "9971f679-2e0c-4215-a0fc-b752a6c62ca4",
+      "DisplayName": "lab2task2",
+      "ColorIndex": 0
+    },
+    "f4c1e425-6ef1-401d-b1ae-a0cbff2344c8": {
+      "ProjectGuid": "f4c1e425-6ef1-401d-b1ae-a0cbff2344c8",
+      "DisplayName": "lab2task2Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
